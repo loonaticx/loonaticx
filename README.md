@@ -7,7 +7,7 @@ Currently a technical artist for the game Toontown: Corporate Clash and Toontown
 
 I use to do competitive programming in High School, went up to USACO silver until I got bored of it (just wasn't my best interest). However, my team placed 2nd in Texas in platinum division my first and only year that I did CyberPatriot during the 2020-2021 season. From 2019 to 2020 I was involved with an FRC (FIRST Robotics Competition) team called the Circuit Bizurkers (7494). I have hosting the team's website and serving as the primary systems administrator since 2019.
 
-I'm also CompTIA A+ Certified; I like to do IT stuff as a side thing 'cause it's fun. I like to ponder around cybersecurity and networking a lot, too. I prefer using Debian with xfce4 for a desktop environment. Hopefully I'll be able to secure either a Network+, CCNA, or Security+ certification in the future. (Though I'll gladly aim for all of them if I can!)
+I'm also CompTIA A+ & Network+ Certified; I like to do IT stuff as a side thing 'cause it's fun. I like to ponder around cybersecurity and networking a lot, too. I prefer using Debian with xfce4 for a desktop environment. Hopefully I'll be able to secure either CCNA or Security+ certification in the future. (Though I'll gladly aim for all of them if I can!)
 
 To describe my technical side in labels, I am an self-taught game developer, technical artist, systems administrator, and IT specialist. I'd like to pursue more topics in the future so I can expand my skillset, so these labels might add up later on in the future.
 
