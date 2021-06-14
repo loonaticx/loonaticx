@@ -1,9 +1,9 @@
 ### Hi there 👋
 [![codecov](https://codecov.io/gh/loonaticx/loonaticx/branch/main/graph/badge.svg)](https://codecov.io/gh/loonaticx/widgets)
 
-This is my technical bio. There's more about me that I can add, but I'm keeping this short and simple for GitHub context.
+This is my technical bio. There's more about me that I can ramble about, but I'll try to TLDR this the best I can.
 
-Currently a technical artist for the game Toontown: Corporate Clash and Toontown Offline. Nowadays I mainly write in Python and have been recently learning how to script in MEL (Maya Embedded Language), though I have prior experience in Java, C#, and JavaScript. I only really work in the Panda3D game engine, don't really touch Unity or any other game engine that much.
+Currently a technical artist for the game Toontown: Corporate Clash. Nowadays I mainly write in Python and have been recently learning how to script in MEL (Maya Embedded Language), though I have prior experience in Java, C#, and JavaScript. I only really work in the Panda3D game engine, don't really touch Unity or any other game engine that much.
 
 I use to do competitive programming in High School, went up to USACO silver until I got bored of it (just wasn't my best interest). However, my team placed 2nd in Texas in platinum division my first and only year that I did CyberPatriot during the 2020-2021 season. From 2019 to 2020 I was involved with an FRC (FIRST Robotics Competition) team called the Circuit Bizurkers (7494). I have hosting the team's website and serving as the primary systems administrator since 2019.
 
