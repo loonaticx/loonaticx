@@ -1,19 +1,38 @@
 ### Hi there 👋
-[![codecov](https://codecov.io/gh/loonaticx/loonaticx/branch/main/graph/badge.svg)](https://codecov.io/gh/loonaticx/widgets)
 
-This is my technical bio. There's more about me that I can ramble about, but I'll try to TLDR this the best I can.
+I provide a lot of useful Toontown development related scripts & utilities!
+Currently a texture+technical artist at [Corporate Clash](https://corporateclash.net)
 
-Currently a technical artist for the game Toontown: Corporate Clash. Nowadays I mainly write in Python and have been recently learning how to script in MEL (Maya Embedded Language), though I have prior experience in Java, C#, and JavaScript. I only really work in the Panda3D game engine, don't really touch Unity or any other game engine that much.
+---
+## Plugins for Panda3D support
+- [Modified Blender 2.8 EGG Exporter (YABEE), should include some bugfixes](https://github.com/loonaticx/YABEE-1)
+- [My custom Maya plugin for Panda3D](https://github.com/loonaticx/PandaMayaPlugin)
 
-I use to do competitive programming in High School, went up to USACO silver until I got bored of it (just wasn't my best interest). However, my team placed 2nd in Texas in platinum division my first and only year that I did CyberPatriot during the 2020-2021 season. From 2019 to 2020 I was involved with an FRC (FIRST Robotics Competition) team called the Circuit Bizurkers (7494). I have hosting the team's website and serving as the primary systems administrator since 2019.
+---
 
-I'm also CompTIA A+ & Network+ Certified; I like to do IT stuff as a side thing 'cause it's fun. I like to ponder around cybersecurity and networking a lot, too. I prefer using Debian with xfce4 for a desktop environment. Hopefully I'll be able to secure either CCNA or Security+ certification in the future. (Though I'll gladly aim for all of them if I can!)
+## Working with Disney's Toontown Online Asset Pipeline (Spotify)
+- [Modified Spotify repository + guide for building the EGG files](https://github.com/loonaticx/ttmodels)
+- [Sort Spotify textures & organize Toontown models](https://github.com/P3DCAT/SpotifyTextureOrganizer)
+  - [Organized Toontown assets that are almost game-ready (unfinished)](https://github.com/loonaticx/new-resources)
 
-To describe my technical side in labels, I am an self-taught game developer, technical artist, systems administrator, and IT specialist. I'd like to pursue more topics in the future so I can expand my skillset, so these labels might add up later on in the future.
+---
 
-Alas, If you're really that curious to know more that I do, feel free to check out my website [here.](https://loonatic.pro)
+## Panda3D/Toontown Guides/writeups
+- [Understanding Vertex Painting](https://loonatic.pro/tutorials/vertexpainting/)
+- [Fixing Goofy Speedway's Interior Model](https://loonatic.pro/post/fixingtoontown-gswint/)
+- [Panda3D Egg Palletization Tools+Documentation](https://github.com/P3DCAT/PalletizeTools)
+- ["Reverse Engineering" Compressed UV Maps](https://loonatic.pro/post/reverse-engineering-compressed-uvs/)
+- [Optimizing Content Packs for Toontown](https://loonatic.pro/post/optimizing-contentpacks/)
 
-Thanks for reading all of that. Here's some other cool stuff to fill my bio with I guess:
+---
 
-<!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loonaticx&count_private=true&show_icons=true&theme=dracula)
+## Other Panda3D Related Tools
+- [Bulk Convert Panda3D models to a different format](https://github.com/P3DCAT/HyperMC)
+- [Misc scripts and stuff I've made to help assist me in various Panda3D/Toontown tasks](https://github.com/loonaticx/sketches)
+
+Check out the [Panda3D Creative Asset Tools (PCAT) organization](https://github.com/P3DCAT) for some more cool stuff :)
+
+---
+
+[Old Github Bio](https://github.com/loonaticx/loonaticx/blob/f3ad8433fa3131d4953a2b8de74804fdb6333ca2/README.md)
+
