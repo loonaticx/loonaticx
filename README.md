@@ -38,6 +38,7 @@ Currently a texture+technical artist at [Corporate Clash](https://corporateclash
 - [Bulk Convert Panda3D models to a different format](https://github.com/P3DCAT/HyperMC)
 - [Directly view and modify material-related attributes within a Panda3D BAM file.](https://github.com/P3DCAT/BamTeXEditor)
 - [Various egg file samples](https://github.com/loonaticx/egg-demos)
+- [Windows Registry addons for egg/bamfiles](https://github.com/loonaticx/panda3d-registry-addons)
 - [Misc scripts and stuff I've made to help assist me in various Panda3D/Toontown tasks](https://github.com/loonaticx/sketches)
 
 Check out the [Panda3D Creative Asset Tools (PCAT) organization](https://github.com/P3DCAT) for some more cool stuff :)
