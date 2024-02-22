@@ -7,7 +7,7 @@ Currently a texture+technical artist at [Corporate Clash.](https://corporateclas
 
 ---
 ## Plugins for Panda3D support
-- [Modified Blender 2.8 EGG Exporter (YABEE), should include some bugfixes](https://github.com/loonaticx/MAYBEE)
+- [Modified Blender 2.8 EGG Exporter (YABEE), should include some bugfixes](https://github.com/loonaticx/YABEE-1)
 - [My custom Maya plugin for Panda3D](https://github.com/loonaticx/PandaMayaPlugin)
 - [Visual Studio Code extension for Egg files (wip)](https://marketplace.visualstudio.com/items?itemName=Loonatic.panda3d-egg-syntax)
 - [Quick and dirty Notepad++ extension for Egg files](https://gist.github.com/loonaticx/0866a7eff8ca2733834a2d873994e5db)
