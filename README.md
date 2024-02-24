@@ -2,14 +2,14 @@
 
 ### Hi there 👋
 
-I provide a lot of useful Toontown development related scripts & utilities!
+I provide a lot of useful Toontown development-related scripts & utilities!
 Currently a texture+technical artist at [Corporate Clash.](https://corporateclash.net)
 
 ---
 ## Plugins for Panda3D support
-- [Modified Blender 2.8 EGG Exporter (YABEE), should include some bugfixes](https://github.com/loonaticx/MAYBEE)
+- [MAYBEE: A Fork of Yet Another Blender Egg Exporter](https://github.com/loonaticx/MAYBEE)
 - [My custom Maya plugin for Panda3D](https://github.com/loonaticx/PandaMayaPlugin)
-- [Visual Studio Code extension for Egg files (wip)](https://marketplace.visualstudio.com/items?itemName=Loonatic.panda3d-egg-syntax)
+- [Visual Studio Code extension for Egg files (Unfinished)](https://marketplace.visualstudio.com/items?itemName=Loonatic.panda3d-egg-syntax)
 - [Quick and dirty Notepad++ extension for Egg files](https://gist.github.com/loonaticx/0866a7eff8ca2733834a2d873994e5db)
 
 ---
