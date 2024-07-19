@@ -7,6 +7,7 @@ Currently a texture+technical artist at [Corporate Clash.](https://corporateclas
 
 ---
 ## Plugins for Panda3D support
+- [Custom updated fork for Blender Egg importer](https://github.com/loonaticx/blender-egg-importer)
 - [MAYBEE: A Fork of Yet Another Blender Egg Exporter](https://github.com/loonaticx/MAYBEE)
 - [My custom Maya plugin for Panda3D](https://github.com/loonaticx/PandaMayaPlugin)
 - [Visual Studio Code extension for Egg files (Unfinished)](https://marketplace.visualstudio.com/items?itemName=Loonatic.panda3d-egg-syntax)
