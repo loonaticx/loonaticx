@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 I provide a lot of useful Toontown development-related scripts & utilities!
-Currently a texture+technical artist at [Corporate Clash.](https://corporateclash.net)
 
 ---
 ## Plugins for Panda3D support
